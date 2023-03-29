@@ -1,13 +1,19 @@
+// 10-colors.scss
+$red: #ff0000;
+$green: #00ff00;
+$blue: #0000ff;
+
+// main.scss
 @import '10-colors';
 
 .red {
-  color: $red;
+color: $red;
 }
 
 .green {
-  color: $green;
+color: $green;
 }
 
 .blue {
-  color: $blue;
+color: $blue;
 }
